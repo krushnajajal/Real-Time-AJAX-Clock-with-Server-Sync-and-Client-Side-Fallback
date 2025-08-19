@@ -15,6 +15,7 @@ Backend: PHP
 AJAX: Fetch API for asynchronous requests
 Getting Started:
 Clone this repository and run the index.php file on a PHP server to see the real-time clock in action. The project is lightweight and requires minimal setup, making it perfect for both beginners and experienced developers.
+/*code*/
 
 Contributions:
 Feel free to fork the repository, submit issues, or create pull requests. Your contributions are welcome!
